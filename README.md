@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></img>
 
 
-![Byeongjae's github stats](https://github-readme-stats.vercel.app/api?username=byeongjaeyu&show icons=true&hide=["issues"])
-
-
 
 <!--
 **byeongjaeyu/byeongjaeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
