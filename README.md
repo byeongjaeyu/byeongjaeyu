@@ -1,3 +1,5 @@
+<div align="center">
+
 <a  href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ybj121725@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></img></a>
 
 ### SSAFY6기 frontend 개발자를 꿈꾸는 유병재입니다. 👋
@@ -15,6 +17,8 @@
 
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ybj1217">
+
+</div>
 
 
 
